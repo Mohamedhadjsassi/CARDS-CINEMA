@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.cards{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 20px;
+
+}
+.App{
+  background-color: rgb(33, 31, 31);
+}
+h1{color: white;
+margin-top: 20px;
+margin-bottom: 20px;}
